@@ -1,2 +1,2 @@
 # raultel.github.io
-Site básico criado com base nos tutorial disponibilizados pela mozilla
+Site básico criado com base nos tutoriais disponibilizados pela mozilla
